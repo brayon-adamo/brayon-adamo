@@ -1,54 +1,79 @@
-# 👨🏻‍💻 Brayon Adamo
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=3b82f6"/>
 
-**`Desenvolvedor FullStack`**
+<div align="center">
+  <samp>
+    <b>
+      FullStack Developer
+    </b>
+    <br>
+    Olá! Eu sou Brayon Adamo 👋
+    <br>
+  </samp>
+</div>
 
-Me chamo **Brayon Adamo**, tenho **18 anos** e sou natural do **Mato Grosso**.  
-Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube, o **[JJ ANXS](https://www.youtube.com/@jjanxs)**, onde ensino a criar projetos web.  
-Também estou presente no Instagram com o perfil **[Brayon_YT](https://www.instagram.com/brayon_yt/)**, onde posto conteúdos sobre programação e desenvolvimento.
+<div align="center">
+  <p align="center">
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMaybankaaaaaa&color=3b82f6&bg=00000000&no=2&ff=source&tb=Visitas:+&ta=" />
+  </p>
+</div>
 
-<p align="left">
-  <a href="https://www.youtube.com/@jjanxs?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Inscreva-se no meu canal" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2DEaUHdppJhKM3pYVdXhzA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" />
-  </a>
-  <a href="https://www.youtube.com/@jjanxs">
-    <img alt="youtube views" title="Visualizações no YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2DEaUHdppJhKM3pYVdXhzA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600" />
-  </a>
-  <a href="https://github.com/BrayonAdamo?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/BrayonAdamo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
-  </a>
-  <a href="https://github.com/BrayonAdamo?tab=followers">
-    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/BrayonAdamo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
-  </a>
-</p>
+<br>
 
----
+<div align="center">
+  <img src="https://imgur.com/SGR1Rrh.gif" width="180">
+</div>
 
-### 🚀 Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/brayon♡-000?style=for-the-badge&logoColor=white" />
+</div>
 
 ---
 
-### 📊 Estatísticas GitHub
+<details align="center">  
+  <summary>
+    <samp><b>📊 Estatísticas & Linguagens</b></samp>
+  </summary>
+
+  <br>
+
+  <div align="center">
+    <img height=165 src="https://github-readme-stats.vercel.app/api?username=Maybankaaaaaa&show_icons=true&theme=tokyonight&rank_icon=github&locale=pt-br"/>
+    <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maybankaaaaaa&layout=compact&theme=tokyonight&langs_count=10"/>
+    <br><br>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maybankaaaaaa&theme=tokyonight"/>
+    <br><br>
+    <img height=154 src="https://github-readme-streak-stats.herokuapp.com?user=Maybankaaaaaa&theme=tokyonight&card_width=880"/>
+  </div>
+
+</details>
+
+---
+
+### 🚀 Tecnologias que uso
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" />
+</div>
+
+---
+
+### 📱 Me encontre aqui
 
 <div align="center">
 
-![Brayon GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrayonAdamo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayonAdamo&layout=compact&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&langs_count=10)
+[![YouTube](https://img.shields.io/badge/Youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jjanxs)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brayon_yt/)
 
 </div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=100&section=footer"/>
