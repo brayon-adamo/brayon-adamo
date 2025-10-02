@@ -3,14 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Brayon+Adamo;Desenvolvedor+de+Bots+e+Sistemas+Web;Criador+de+conteúdo+no+YouTube;Seja+bem-vindo(a)+ao+meu+universo!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Maybankaaaaaa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Brayon Adamo github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maybankaaaaaa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brayon-adamo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Brayon Adamo github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayon-adamo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-[![Brayon's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maybankaaaaaa&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Brayon's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brayon-adamo&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maybankaaaaaa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=brayon-adamo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">
@@ -47,7 +47,7 @@
 
 <div align="center">
 <br><p><b>📈 Visitantes do perfil:</b></p>  
-<p><img align="center" src="https://profile-counter.glitch.me/Maybankaaaaaa/count.svg" /></p> 
+<p><img align="center" src="https://profile-counter.glitch.me/brayon-adamo/count.svg" /></p> 
 <br>
 </div>
 
